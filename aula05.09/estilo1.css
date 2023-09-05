@@ -1,0 +1,18 @@
+body{
+    background-color: antiquewhite;
+}
+p, div{
+    font-size: 25pt;
+}
+
+#verde{
+    background-color: lightgreen;
+}
+
+#vermelho{
+    background-color: lightcoral;
+}
+
+.txt{
+    color: red;
+}

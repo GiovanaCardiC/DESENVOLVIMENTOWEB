@@ -1,0 +1,24 @@
+table, th, td {
+    border:  1px solid black;
+}
+
+.verdeescuro{
+    background-color: green;
+}
+
+.verdeclaro{
+    background-color: lightgreen;
+}
+
+#table{
+    background-color: black;
+    color: #fff;
+}
+
+.cinzaescuro{
+    background-color: gray;
+}
+
+.cinzaclaro{
+    background-color: lightgray;
+}
